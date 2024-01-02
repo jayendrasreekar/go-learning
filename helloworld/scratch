@@ -1,0 +1,6 @@
+go run -> Compiles and executes 1 or More files
+go build -> Compiles a bunch of Source code files
+go fmt -> Formats all the code in the current directory
+go install -> compiles and installs a package
+go get -> downloads the raw source code of Someone else's project
+go test -> Runs any tests associated with the current project
